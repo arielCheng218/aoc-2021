@@ -1,5 +1,5 @@
 
-from day8_1 import solve
+from day9_2 import solve
 
 def main():
   solve()
